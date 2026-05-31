@@ -185,6 +185,13 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
+## 🙋‍♂️ Author
+
+- Github https://github.com/Gopi-Boyi
+- Linkedin www.linkedin.com/in/gopi-boyi
+
+---
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
